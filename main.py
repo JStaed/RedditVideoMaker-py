@@ -263,7 +263,7 @@ Options:
 
     if sel == 1:
         try:
-            mode = int(input("Short/Long [1/2]: "))
+            mode = int(input("Short(under 1000 characters per post)/Long [1/2]: "))
         except ValueError:
             print("Input must be an integer")
             main()
