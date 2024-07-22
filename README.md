@@ -24,6 +24,7 @@
 ## Installation and Instructions
 * Download and extract the source code
 * Open the command prompt in the project directory
+* Place background videos in the Video Clips folder with the following naming convention `Clip0.mp4, Clip1.mp4, etc`
 * Execute `python main.py`
 * Follow the prompts given by the console
 
